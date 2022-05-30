@@ -1,0 +1,675 @@
+{
+  "logox": "https://i01.appmifile.com/webfile/globalimg/pandora/mi-logo.svg",
+  "logo": "https://interanalyst.us/wp-content/uploads/2017/12/Agriculture_icon.png",
+  "miPhones": [
+    {
+      "name": "Urea",
+      "price": "₹ 350",
+      "image": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2020-04/UREA_0.png?width=140&height=140"
+    },
+    {
+      "name": "Zinc",
+      "price": "from ₹ 500",
+      "image": "https://5.imimg.com/data5/GI/RC/PR/SELLER-19090231/power-zinc-fertilizers-500x500.jpg?width=140&height=140"
+    },
+    {
+      "name": "Ammonium Sulphate",
+      "price": "from ₹ 600",
+      "image": "https://5.imimg.com/data5/LY/QP/MY-998144/ammonium-sulphate-fertilizer-500x500.png?width=140&height=140"
+    },
+    {
+      "name": "Magnesium",
+      "price": "₹ 399",
+      "image": "https://cdn-prodapi.iffcobazar.in/pub/media/catalog/product/i/f/iffco_magnesium_sulphate_2kg-b_1.png?width=140&height=140"
+    },
+    {
+      "name": "Nitrogen",
+      "price": "from ₹ 649",
+      "image": "https://drearth.com/wp-content/uploads/NitrogenFertBagComp-699-1.jpg?width=140&height=140"
+    },
+    {
+      "name": "Thimet",
+      "price": "from ₹ 50",
+      "image": "https://agrosiaa.com/uploads/userdata/seller/b1d5781111d84f7b3fe45a0852e59758cd7a87e5/product_images/8260883089f4ec78a90034cff23ff83e2664cb45f4bcadf635.jpeg?width=140&height=140"
+    }
+  ],
+  "redmiPhones": [
+    {
+      "name": "Dichlorvos",
+      "price": "from ₹ 999",
+      "image": "https://5.imimg.com/data5/FU/QW/MY-3468171/dichlorvos-76-ec-insecticide-500x500.jpg?width=140&height=140"
+    },
+    {
+      "name": "Alphamethrin",
+      "price": "from ₹ 199",
+      "image": "https://5.imimg.com/data5/MY/RC/MY-24774718/alphamethrin-10-ec-insecticide-500x500.jpg?width=140&height=140"
+    },
+    {
+      "name": "Mancozeb",
+      "price": "from ₹ 999",
+      "image": "https://image.made-in-china.com/2f0j00LgCYlUkcvtpj/Widely-Use-Fungicide-Mancozeb-80-Wp-90-Tc-75-WDG-30-SC-.jpg?width=140&height=140"
+    },
+    {
+      "name": "Malathion",
+      "price": "from ₹ 499",
+      "image": "https://m.media-amazon.com/images/I/41VTB4y3SYL.jpg?width=140&height=140"
+    },
+    {
+      "name": "Cypemethrin",
+      "price": "from ₹ 299",
+      "image": "https://5.imimg.com/data5/BP/CI/MY-3468171/cypermethrin-insecticide-500x500.jpg?width=140&height=140"
+    }
+  ],
+  "tv": [
+    {
+      "name": "Wheat",
+      "price": "from ₹ 499",
+      "image": "https://www.savannahseeds.com/wp-content/uploads/2019/11/wheat-seed.png?width=140&height=140"
+    },
+    {
+      "name": "Rice",
+      "price": "₹ 299",
+      "image": "https://www.panseeds.in/backend/uploads/2/2022-04/pan-2430.png?width=140&height=140"
+    },
+    {
+      "name": "Mustard",
+      "price": "₹ 499",
+      "image": "https://cdn.shopify.com/s/files/1/0846/4264/products/Black-Mustard-Seed-Whole-shoot.jpg?v=1643113319?width=140&height=140"
+    },
+    {
+      "name": "Maize",
+      "price": "₹ 99",
+      "image": "https://parshvgenetics.com/wp-content/uploads/2019/08/9000-new.png?width=140&height=140"
+    },
+    {
+      "name": "Pumpkin",
+      "price": "₹ 15",
+      "image": "https://m.media-amazon.com/images/I/719vPjL6nfL._SX466_.jpg?width=140&height=140"
+    }
+  ],
+  "laptop": [
+    {
+      "name": "Water Pump",
+      "price": "From ₹ 2,999",
+      "image": "https://www.crompton.co.in/wp-content/uploads/2019/11/pump-listing-banner-agriculture-new_compressed.png?width=140&height=140"
+    },
+    {
+      "name": "Water Tanks",
+      "price": "From ₹ 2,999",
+      "image": "https://www.israel21c.org/wp-content/uploads/2021/08/N-drip1-1168x657.jpg?width=140&height=140"
+    },
+    {
+      "name": "Irrigation Pipes",
+      "price": "From ₹ 999",
+      "image": "https://s.alicdn.com/@sc04/kf/H43fdd7564d4c43c2a1474a458a9da702d.jpg_300x300.jpg?width=140&height=140"
+    },
+    {
+      "name": "Nossels",
+      "price": "From ₹ 99",
+      "image": "https://media.tehrantimes.com/d/t/2020/05/04/4/3442277.jpg?width=140&height=140"
+    },
+    {
+      "name": "Drip Irrigation System",
+      "price": "₹ 8,999",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo8ShbLkwDY8UnMOxhV2EzJ7Y5vNGD8ZnBGQ&usqp=CAU?width=140&height=140"
+    },
+    {
+      "name": "Manual Irrigation",
+      "price": "₹ 1,099",
+      "image": "https://thumbs.dreamstime.com/b/watering-plants-manual-can-184789190.jpg?width=140&height=140"
+    }
+  ],
+  "fitnessAndLifeStyle": [
+    {
+      "name": "Kutivator",
+      "price": "₹ 9,999",
+      "image": "https://www.fieldking.com/images/home/Cultivators.jpg?width=140&height=140"
+    },
+    {
+      "name": "Rotavator",
+      "price": "₹ 7,999",
+      "image": "https://ambberinnovations.com/wp-content/uploads/2021/10/Farm-Equipment-Manufacturers-in-India.jpg?width=140&height=140"
+    },
+    {
+      "name": "Jhal",
+      "price": "₹ 4,499",
+      "image": "https://5.imimg.com/data5/JQ/GU/FD/SELLER-3174270/heavy-duty-mounted-cum-trailed-offset-disc-harrow-10-x-10-250x250.jpg?width=140&height=140"
+    },
+    {
+      "name": "Paddy Farming",
+      "price": "₹ 3,999",
+      "image": "https://t3.ftcdn.net/jpg/00/64/60/62/360_F_64606279_GsnSbpwIljcri9mQ0ZfqhZekPGWAkKwq.jpg?width=140&height=140"
+    },
+    {
+      "name": "Hand Tractor",
+      "price": "₹ 5,699",
+      "image": "https://thumbs.dreamstime.com/b/hand-tractor-popular-farm-equipment-indonesia-hand-tractor-popular-farm-equipment-indonesia-167843155.jpg?width=140&height=140"
+    }
+  ],
+  "home": [
+    {
+      "name": "Water Pump",
+      "price": "from ₹ 4,999",
+      "image": "https://www.waterpumpsdirect.com/products-image/600/WH20_6630_600.jpg?width=140&height=140"
+    },
+    {
+      "name": "Fertilizers",
+      "price": "from ₹ 99",
+      "image": "https://www.eirich.com/fileadmin/_processed_/8/7/csm_FD8922_17_slide1_8fc8597398.jpg?width=140&height=140"
+    },
+    {
+      "name": "Seeds",
+      "price": "₹ 99",
+      "image": "https://5.imimg.com/data5/IE/SX/AV/SELLER-55273776/kitchen-garden-seeds-500x500.jpg?width=140&height=140"
+    },
+    {
+      "name": "Hand Tools",
+      "price": "₹ 199",
+      "image": "https://1.bp.blogspot.com/-2f58LNF17iw/XkvVs6koQJI/AAAAAAAAAYQ/sABDZt0oyCwfdf3btQlz-GqkN9mM5cK0wCLcBGAsYHQ/s1600/tools-01-01.png?width=140&height=140"
+    },
+    {
+      "name": "Tractor Tools",
+      "price": "From ₹ 1,799",
+      "image": "https://im.hunt.in/local/Gallery/2997727/l/2997727_af5a7.jpg?width=140&height=140"
+    }
+  ],
+  "audio": [
+    {
+      "name": "Hoe",
+      "price": "From ₹ 399",
+      "image": "https://s.alicdn.com/@sc04/kf/H8a24b3bdc0a144f8b9b2a6d260d1e29fy.jpg_300x300.jpg?width=140&height=140"
+    },
+    {
+      "name": "Sickle",
+      "price": "From ₹ 99",
+      "image": "https://4.imimg.com/data4/TG/VK/ANDROID-3646185/product-500x500.jpeg?width=140&height=140"
+    },
+    {
+      "name": "Spade",
+      "price": "From ₹ 499",
+      "image": "https://img.hobbyfarms.com/wp-content/uploads/2017/03/10163352/shovel-vs-spade_800_KJ.jpg?width=140&height=140"
+    },
+    {
+      "name": "Slasher",
+      "price": "From ₹ 399",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/A_aesthetic_billhook.JPG?width=140&height=140"
+    },
+    {
+      "name": "Hand Tool Kit",
+      "price": "₹ 1,399",
+      "image": "https://1.bp.blogspot.com/-2f58LNF17iw/XkvVs6koQJI/AAAAAAAAAYQ/sABDZt0oyCwfdf3btQlz-GqkN9mM5cK0wCLcBGAsYHQ/s1600/tools-01-01.png?width=140&height=140"
+    }
+  ],
+  "accessories": [
+    {
+      "name": "Hand Sprayer",
+      "price": "From ₹ 799",
+      "image": "https://5.imimg.com/data5/TG/SH/OI/SELLER-16449443/agricultural-power-sprayer-500x500.jpg?width=140&height=140"
+    },
+    {
+      "name": "Tractor Spray",
+      "price": "₹ 6,999",
+      "image": "https://cdn.pixabay.com/photo/2013/03/02/02/40/agriculture-89168__340.jpg?width=140&height=140"
+    },
+    {
+      "name": "Tradional Sprayer",
+      "price": "₹ 800",
+      "image": "https://cdn1.industrybuying.com/products_medium/agriculture-garden-landscaping/sprayers/knapsack-sprayer/AGR.MAN.51395685_1561637388477.jpg?width=140&height=140"
+    },
+    {
+      "name": "Gardening Sprayer",
+      "price": "From ₹ 179",
+      "image": "https://5.imimg.com/data5/LO/NP/YD/SELLER-27502985/hand-held-pressure-sprayer-500x500.jpg?width=140&height=140"
+    },
+    {
+      "name": "Drone Sprayer",
+      "price": "From ₹ 2,50,149",
+      "image": "https://i.ytimg.com/vi/aUtDPRQ13B4/maxresdefault.jpg?width=140&height=140"
+    }
+  ],
+  "banner": {
+    "start": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROu3aI4MELmVS3F7-1_WiykfAA7FBQzpN7JA&usqp=CAU",
+      "https://www.fao.org/uploads/pics/Lao-pdr.png",
+      "https://www.fieldking.com/blogs/wp-content/uploads/2021/04/Fieldking-3.jpg",
+      "https://www.farminguk.com/images/News/31642_1.jpg?width=1920&height=770",
+      "https://www.fertilizer-machine.net/wp-content/uploads/2018/06/types-of-fertilizer.jpg?width=1920&height=770",
+      "https://www.asiafarming.com/wp-content/uploads/2019/12/Comp2.jpg?width=1920&height=770",
+      "https://powerequipment.honda.com/-/media/Images/pages/pumps/additional-resources-shopping-pumps.jpg?width=1920&height=770",
+      "https://ohsonline.com/-/media/ENV/eponline/Images/2017/12/shutterstock_548327224.jpg",
+      "https://www.thehansindia.com/content/servlet/RDESController?command=rdm.Picture&sessionId=RDWEB1AIKXTDV89KYQWWHPZVMVAGIZLKGW0FO&app=rdes&partner=hansindia&type=7&uid=21128ImlOnqeDJOoDNOpBqUc93OPFjvjaFGYG4004776",
+      "https://img.krishijagran.com/media/54575/seeds.png",
+      "https://jungleworks.com/wp-content/uploads/2020/12/image-10-1024x536.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__vPT5r0HhY_JZs9V6gwJZK0V6-sWv0mivA&usqp=CAU"
+    ],
+    "end": [
+      {
+        "name": "KULTIVATOR",
+        "description": "Most needed thing for farming, With “crazy Agrivyapar pricing”",
+        "source": "Agrivyapar",
+        "image": "https://wolf-landtechnik.de/media/products/dd345bb4c1d2b7c7dfa92b94a26cfbd0/images/thumbnail/large_Kultivator.jpg?lm=1631078877"
+      },
+      {
+        "name": "MANUAL SPRAYER",
+        "description": "It is easily the most affordable device with single person work only",
+        "source": "Agrivyapar",
+        "image": "https://ohsonline.com/-/media/ENV/eponline/Images/2017/12/shutterstock_548327224.jpg?width=606&height=252"
+      },
+      {
+        "name": "UREA",
+        "description": "One of the main fertilizer which is uesd for all type of plants, it's helps in high yielding.",
+        "source": "India Today",
+        "image": "https://m.media-amazon.com/images/I/51--r6cD1dL._SX522_.jpg"
+      },
+      {
+        "name": "SEEDS",
+        "description": "Best quality seeds, with great5 germination and good growth ratio.",
+        "source": "The Hindu",
+        "image": "https://cms.qz.com/wp-content/uploads/2022/03/seeds.jpg?quality=75&strip=all&w=1600&h=900&crop=1"
+      },
+      {
+        "name": "SOlar Pump",
+        "description": "The Solar pump is best to use in outrage area where electicity is not thereand it also saves any extrenla resource cost and is eco friendly too.",
+        "source": "Hindustan News Paper",
+        "image": "https://image.shutterstock.com/image-photo/water-pumps-solar-panels-groundwater-600w-1905531460.jpg"
+      }
+    ]
+  },
+  "offer": [
+    {
+      "url": "https://offer",
+      "image": "https://m.media-amazon.com/images/I/813dOHy598L._SX466_.jpg?width=398&height=230"
+    },
+    {
+      "url": "https://offer",
+      "image": "http://www.supernapier.in/product-main/add%2002%20-%20Copy%203-thumb-1624124159.jpg?width=398&height=230"
+    }
+  ],
+  "starProduct": [
+    {
+      "url": "https://star",
+      "image": "https://5.imimg.com/data5/TG/SH/OI/SELLER-16449443/agricultural-power-sprayer-500x500.jpg?width=612&height=612"
+    },
+    {
+      "url": "https://star",
+      "image": "https://ambberinnovations.com/wp-content/uploads/2021/10/Farm-Equipment-Manufacturers-in-India.jpg?width=612&height=612"
+    },
+    {
+      "url": "https://star",
+      "image": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2020-04/UREA_0.png?width=140&height=140"
+    },
+    {
+      "url": "https://star",
+      "image": "https://img.mensxp.com/media/shop/cat-images/urban-farming.jpg?width=612&height=612"
+    }
+  ],
+  "hotAccessories": {
+    "music": [
+      {
+        "name": "Redmi Earbuds S",
+        "price": "₹ 1,799",
+        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/BF2A4279-A6D5-B4F0-FE37-633256CDC9FC.jpg"
+      },
+      {
+        "name": "Mi Soundbar",
+        "price": "₹ 4,999",
+        "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1547107203.76021206.png"
+      },
+      {
+        "name": "Mi Neckband Bluetooth Earphones",
+        "price": "₹ 1,599",
+        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/A1C40BA8-574D-2FA0-62C0-3D7A2C964790.jpg"
+      },
+      {
+        "name": "Mi Super Bass Wireless Headphones",
+        "price": "₹ 1,799",
+        "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1563264530.44121333.jpg?width=420&height=420"
+      },
+      {
+        "name": "Mi Dual Driver In-ear Earphones",
+        "price": "₹ 799",
+        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/E794F82C-8858-02F1-7C53-6FB0B4D0C4C6.jpg"
+      }
+    ],
+    "smartDevice": [
+      {
+        "name": "Mi Smart Band 4",
+        "price": "₹ 2,099",
+        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/0E0F0769-6A69-5820-C8F0-F2B956C65BFA.jpg"
+      },
+      {
+        "name": "Mi Smart Water Purifier",
+        "price": "₹ 12,999",
+        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/BC643CF4-853C-24E4-1EEC-9D4FF614C86D.jpg"
+      },
+      {
+        "name": "Mi Watch Revolve",
+        "price": "₹ 9,999",
+        "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1601293021.06313819.png"
+      },
+      {
+        "name": "Mi Smart Bedside Lamp 2",
+        "price": "₹ 2,499",
+        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/6A656178-B31B-39D1-AC43-9C7EC61C3D84.jpg"
+      },
+      {
+        "name": "Mi Smart LED Desk Lamp 1S",
+        "price": "₹ 2,499",
+        "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1574669860.58966823.jpg?width=420&height=420"
+      }
+    ],
+    "home": [
+      {
+        "name": "Mi Air Purifier 3",
+        "price": "₹ 10,999",
+        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/70A72569-C7EA-BBD7-591E-DC93EC3CDF34.jpg"
+      },
+      {
+        "name": "Mi Air Purifier 2C",
+        "price": "₹ 6,999",
+        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/7D8FAD13-1E44-9475-3555-949CBF3571AF.jpg"
+      },
+      {
+        "name": "Mi Router 4C",
+        "price": "₹ 999",
+        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/FD13B2EB-1AD5-67EE-FF6B-C3E2A0270556.jpg"
+      },
+      {
+        "name": "Mi Box 4K",
+        "price": "₹ 3,499",
+        "image": "https://i02.appmifile.com/919_updatepdf_in/15/05/2020/984e626e158fdeb7cc21aff04264773d.png"
+      },
+      {
+        "name": "Mi LED Wi-Fi Smart Bulb",
+        "price": "₹ 1,299",
+        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/441FC065-EEE7-5A64-9CF9-608EF2F82F60.jpg"
+      }
+    ],
+    "lifeStyle": [
+      {
+        "name": "Mi Travel Backpack",
+        "price": "₹ 1,999",
+        "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1536381648.16353261.png?width=420&height=420"
+      },
+      {
+        "name": "Mi Athleisure Shoes",
+        "price": "₹ 1,699",
+        "image": "https://i02.appmifile.com/363_operator_in/13/10/2020/c7bde508f128d7b1fd10a224d18a5333.png"
+      },
+      {
+        "name": "Mi Beard Trimmer",
+        "price": "₹ 1,399",
+        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/CEEE67A3-3578-7048-887D-CFC3D90B5D17.jpg"
+      },
+      {
+        "name": "Mi KN-95 Protective Mask (Pack of 5)",
+        "price": "₹ 399",
+        "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1602500062.48215120.png?width=420&height=420"
+      },
+      {
+        "name": "Mi Portable Electric Air Compressor",
+        "price": "₹ 2,499",
+        "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1592479075.0368979.png?width=420&height=420"
+      },
+      {
+        "name": "Mi T-shirts",
+        "price": "₹ 399 onwards",
+        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/0D320403-6180-D6D6-9F57-4EDF0FEB58C7.jpg"
+      }
+    ],
+    "mobileAccessories": [
+      {
+        "name": "Cases & Covers",
+        "price": "₹ 49 onwards",
+        "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1551164869.57618003.jpg"
+      },
+      {
+        "name": "Charger & USB Gadgets",
+        "price": "₹ 179 onwards",
+        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/5A5AA9AC-41A3-7E86-5922-928B312919B0.jpg"
+      },
+      {
+        "name": "Mi Wireless Power Bank 10000mAh",
+        "price": "₹ 2,499",
+        "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/3CBAACCE-D18A-B241-A4F8-54A4CCE194A5.jpg"
+      },
+      {
+        "name": "10000mAh Mi Power Bank 3i",
+        "price": "₹ 999",
+        "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1600434881.35114664.jpg?width=420&height=420"
+      },
+      {
+        "name": "Redmi SonicBass Wireless Earphones",
+        "price": "₹ 1,299",
+        "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1601900775.75794078.png?width=420&height=420"
+      }
+    ]
+  },
+  "hotAccessoriesCover": {
+    "music": "https://i01.appmifile.com/webfile/globalimg/in/cms/500BFA0B-CBEF-5DFF-79A9-E925F9F2FEE9.jpg",
+    "smartDevice": "https://i02.appmifile.com/953_operator_in/17/06/2021/e12dde416676486fed36d0503d5bd65a.jpg",
+    "home": "https://i02.appmifile.com/663_operator_in/20/01/2021/0f6ac3c219428b6decbe7fb03d479060.jpg",
+    "lifeStyle": "https://i02.appmifile.com/677_operator_in/25/01/2021/8163c3c89feb2c83c73b019d5fd50181.jpg",
+    "mobileAccessories": "https://i01.appmifile.com/webfile/globalimg/in/cms/801ED76B-614B-5959-E2C3-1EC8E14C0ABD.jpg"
+  },
+  "productReviews": [
+    {
+      "image": "https://www.farminguk.com/images/News/31642_1.jpg?width=606&height=252",
+      "review": "Pro Extraction,Good Eficiency",
+      "name": "Roater",
+      "price": "₹ 1,55,999"
+    },
+    {
+      "image": "https://www.farminguk.com/images/News/31642_1.jpg?width=606&height=252",
+      "review": "TRULY SMART. TRULY SAFE. TRULY CONVENIENT.",
+      "name": "Manual Back Sprayer ",
+      "price": "₹ 1,9999"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Redmi Note 10 Pro Max",
+      "image": "https://i02.appmifile.com/769_operator_in/26/04/2021/2fab525c022f0d6c0dba8a6edcf12060.png?width=398&height=320"
+    },
+    {
+      "name": "Mi 10",
+      "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/2461CE83-F535-6B92-CBEE-5971984298E4.jpg?width=398&height=320"
+    },
+    {
+      "name": "Mi MIX Alpha",
+      "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/FD2BD776-5489-44CA-F05A-C20C232A4848.jpg?width=398&height=320"
+    }
+  ],
+  "footer": {
+    "support": [
+      {
+        "name": "Online Help",
+        "url": "https://www.mi.com/in/service/help/#category_id=1&pagenum=1&channel=1"
+      },
+      {
+        "name": "Customer Service",
+        "url": "https://www.mi.com/in/service/online/"
+      },
+      {
+        "name": "Shipping FAQ",
+        "url": "https://www.mi.com/in/service/shipping/"
+      },
+      {
+        "name": "Service Centres",
+        "url": "https://www.mi.com/in/service/repair/"
+      },
+      {
+        "name": "Warrenty",
+        "url": "https://www.mi.com/in/service/warranty/"
+      },
+      {
+        "name": "Mi Exchange",
+        "url": "https://www.mi.com/in/miexchange/"
+      },
+      {
+        "name": "Bulk Order",
+        "url": "https://www.mi.com/in/bulkbuy/"
+      },
+      {
+        "name": "User Guide",
+        "url": "https://www.mi.com/in/service/userguide/"
+      },
+      {
+        "name": "Laptop Drivers",
+        "url": "https://www.mi.com/in/service/support/laptop-drivers.html"
+      },
+      {
+        "name": "Mi Screen Protect",
+        "url": "https://www.mi.com/in/service/miphoneprotection/#miscreenprotect"
+      },
+      {
+        "name": "Mi Extended Warranty",
+        "url": "https://www.mi.com/in/service/miextendedwarranty/"
+      }
+    ],
+    "shopAndLearn": [
+      {
+        "name": "Mi 10i",
+        "url": "https://www.mi.com/in/mi-10i/"
+      },
+      {
+        "name": "Mi 10T Series",
+        "url": "https://in.event.mi.com/in/mi-10t-series"
+      },
+      {
+        "name": "Mi 11 Ultra",
+        "url": "https://www.mi.com/in/mi-11-ultra/"
+      },
+      {
+        "name": "Mi 11X",
+        "url": "https://www.mi.com/in/mi-11x/"
+      },
+      {
+        "name": "Mi 11X Pro",
+        "url": "https://www.mi.com/in/mi-11x-pro/"
+      },
+      {
+        "name": "Redmi 8",
+        "url": "https://www.mi.com/in/redmi-8/"
+      },
+      {
+        "name": "Redmi 9",
+        "url": "https://www.mi.com/in/redmi-9/"
+      },
+      {
+        "name": "Redmi 9 Prime",
+        "url": "https://www.mi.com/in/redmi-9-prime/"
+      },
+      {
+        "name": "Redmi 9i",
+        "url": "https://www.mi.com/in/redmi-9i/"
+      },
+      {
+        "name": "Redmi 9A",
+        "url": "https://www.mi.com/in/redmi-9a/"
+      },
+      {
+        "name": "Redmi Note 10",
+        "url": "https://www.mi.com/in/redmi-note-10/"
+      },
+      {
+        "name": "Redmi Note 10 Pro",
+        "url": "https://www.mi.com/in/redmi-note-10-pro/"
+      },
+      {
+        "name": "Redmi Note 10 Pro Max",
+        "url": "https://www.mi.com/in/redmi-note-10-pro-max/"
+      },
+      {
+        "name": "Redmi Note 9 Pro",
+        "url": "https://www.mi.com/in/redmi-note-9-pro/"
+      },
+      {
+        "name": "Redmi Note 9",
+        "url": "https://www.mi.com/in/redmi-note-9/"
+      },
+      {
+        "name": "Redmi Note 9 Pro Max",
+        "url": "https://www.mi.com/in/redmi-note-9-pro-max/"
+      },
+      {
+        "name": "TVs",
+        "url": "https://www.mi.com/in/all-mi-tv"
+      },
+      {
+        "name": "Laptops",
+        "url": "https://www.mi.com/in/xiaomi-laptops"
+      }
+    ],
+    "retailStore": [
+      {
+        "name": "Mi Home",
+        "url": "https://www.mi.com/in/service/mihome/"
+      },
+      {
+        "name": "Mi Authorised Stores",
+        "url": "https://www.mi.com/in/service/authorized_stores/"
+      }
+    ],
+    "aboutUS": [
+      {
+        "name": "Xioami",
+        "url": "https://www.mi.com/in/about/"
+      },
+      {
+        "name": "Mediakit",
+        "url": "https://www.mi.com/in/mediakit/"
+      },
+      {
+        "name": "Culture",
+        "url": "https://www.mi.com/in/about/#culture"
+      },
+      {
+        "name": "User Agreement",
+        "url": "https://www.mi.com/in/about/agreement/"
+      },
+      {
+        "name": "Privacy Policy",
+        "url": "https://www.mi.com/in/about/privacy/"
+      },
+      {
+        "name": "Declarations",
+        "url": "https://www.mi.com/in/service/support/mideclare.html"
+      },
+      {
+        "name": "Integrity & Compliance",
+        "url": "https://integrity.mi.com/global"
+      },
+      {
+        "name": "Smartphone Quality",
+        "url": "https://www.mi.com/in/smartphone-quality/"
+      },
+      {
+        "name": "TV Quality",
+        "url": "https://www.mi.com/in/tv-quality/"
+      },
+      {
+        "name": "Service Quality",
+        "url": "https://www.mi.com/in/service-quality/"
+      },
+      {
+        "name": "Environment",
+        "url": "https://www.mi.com/in/service/support/ewastetakeback.html"
+      },
+      {
+        "name": "Sitemap",
+        "url": "https://www.mi.com/in/sitemap"
+      }
+    ],
+    "contactUs": [
+      {
+        "name": "Email",
+        "url": "https://in.event.mi.com/in/questionnaire/email_us"
+      },
+      {
+        "name": "Careers",
+        "url": "https://www.mi.com/in/about/#career"
+      }
+    ]
+  }
+}
